@@ -4,6 +4,7 @@ published: false
 ---
 layout: post
 title: Test title
+published: true
 ---
 
 ## A New Post
