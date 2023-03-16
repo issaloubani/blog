@@ -1,9 +1,9 @@
 ---
-published: true
+published: false
 ---
 ---
 layout: post
-title: New Post
+title: Test title
 ---
 
 ## A New Post
