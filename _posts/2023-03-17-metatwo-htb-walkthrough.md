@@ -39,6 +39,10 @@ AFter some time, I was able to get the credential of the panel.
 
 # ****CVE-2022-0739****
 
+<h1>CVE Details</h1>
+_A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled._
+
+
 The vuln is a little bit complicated, but it is as follows, with some prerequisites.
 
 - We need an http server that the mp4 will try to read some commands for it (to know which file to read and send it back)
@@ -56,5 +60,3 @@ After creating all files, we start our server using the following command:
 INSERT_COMMAND
 
 #### CVE In action
-
-
