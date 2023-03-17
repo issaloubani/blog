@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Metatwo Walkthrough
 ---
 ## HackTheBox Metatwo Walkthrough
 
