@@ -26,4 +26,4 @@ learning, I approach every challenge with enthusiasm and a commitment to excelle
 
 ### Contact me
 
-[email@domain.com](mailto:issa.loubani.5@gmail.com)
+[issa.loubani.5@gmail.com](mailto:issa.loubani.5@gmail.com)
