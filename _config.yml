@@ -1,10 +1,9 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+theme: jekyll-theme-hacker
 # Name of your site (displayed in the header)
 name: Issa Loubani
-theme: minima
 # Short bio or description (displayed in the header)
 description: Fullstack Developer (Lebanon)
 
@@ -17,18 +16,17 @@ avatar: https://avatars1.githubusercontent.com/u/30502655?v=3&s=450
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: issa.loubani.5@gmail.com
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: issaloubani
+  instagram: issa.loubani.5
+  linkedin: issa-loubani-6195a5200
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  hackthebox: https://www.hackthebox.com/profile/504134 # your hackthebox profile, e.g. "users/50476/bart-kiers"
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -69,7 +67,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
